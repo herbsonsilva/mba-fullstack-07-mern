@@ -34,11 +34,6 @@ Repositório para estudo do módulo MERN Bootcamp.
   
 </p>
 
-<p align="center">
-  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#page_facing_up-licença">Licença</a>
-</p>
-
 ## :rocket: Tecnologias
 
 Este repositório foi criado para estudo do módulo MERN Bootcamp do curso de [MBA em Full Stack Web Development][curso].
